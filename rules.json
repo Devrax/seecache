@@ -1,0 +1,12 @@
+[
+    {
+      "id": 1,
+      "priority": 1,
+      "action": { "type": "block" },
+      "condition": {
+        "urlFilter": "https://cdn-client.medium.com/lite/static/js/*.js",
+        "resourceTypes": ["script"]
+      }
+    }
+  ]
+  
