@@ -14,3 +14,7 @@
 </p>
 
 Seecache is a simple one-click extension to watch the lastest cached version stored by google of a website or webapplication.
+
+## How to install unofficially
+
+If you are using based Chromium browsers go to [chrome://extensions](chrome://extensions), enable developer mode and click on `Load unpacked` and select the src folder and that's all
