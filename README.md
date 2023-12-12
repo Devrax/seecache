@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Status-pending-yellow?style=flat&logo=googlechrome"/>
-    <img src="https://img.shields.io/badge/Current-unpublished-gray?style=flat&logo=googlechrome&logoColor=blue"/>
+    <img src="https://img.shields.io/badge/Status-on store-green?style=flat&logo=googlechrome"/>
+    <img src="https://img.shields.io/badge/Current-published-green?style=flat&logo=googlechrome&logoColor=blue"/>
 </p>
 
 <p align="center">
